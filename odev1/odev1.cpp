@@ -206,25 +206,6 @@ void Case5(void) {
 
 
 }
-void Case6(void) {
-
-
-
-
-}
-void Case7() {
-
-
-
-
-}
-void Case8() {
-
-
-
-
-}
-
 
 int main()
 {
